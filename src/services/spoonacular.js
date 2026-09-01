@@ -2,7 +2,7 @@ const API_KEY = import.meta.env.VITE_SPOONACULAR_API_KEY
 const BASE_URL = 'https://api.spoonacular.com/recipes'
 
 // 💡 TOGGLE THIS: Set to true to save daily API points!
-const USE_MOCK = true
+const USE_MOCK = false
 
 // Mock data updated with full details & instructions
 const MOCK_RECIPES = [

@@ -119,9 +119,9 @@ function clearAllGrocery() {
           </div>
         </div>
 
-        <span class="text-[11px] font-black bg-[#71351A] text-[#B3A38A] px-3.5 py-1 rounded-full border border-[#887456]/30 font-['Plus_Jakarta_Sans']">
-          ⚡ Mock Mode
-        </span>
+<!--        <span class="text-[11px] font-black bg-[#71351A] text-[#B3A38A] px-3.5 py-1 rounded-full border border-[#887456]/30 font-['Plus_Jakarta_Sans']">-->
+<!--          ⚡ Mock Mode-->
+<!--        </span>-->
       </div>
     </header>
 
